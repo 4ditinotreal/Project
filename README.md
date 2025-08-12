@@ -3,7 +3,7 @@
 A Python Tkinter-based application to manage student records.
 
 ## Features
-- Add, update, and delete student data
+- Add, update, view and delete student data
 - View all records in a table
 - Search for students
 - Save data to JSON/SQLite
