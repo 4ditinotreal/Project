@@ -1,11 +1,14 @@
 # Student Management System
 
-A simple **Tkinter-based Student Management System** that allows you to:
-- Add, edit, delete student records
+A Python Tkinter-based application to manage student records.
+
+## Features
+- Add, update, and delete student data
+- View all records in a table
 - Search for students
-- View all students in a table
-- Save and load data from a database or JSON
+- Save data to JSON/SQLite
 
----
-
-## 📂 Project Structure
+## How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/4ditinotreal/student-app.git
